@@ -8,7 +8,7 @@ path_fig = '../Figures/';
 % path_fig = 'Figures';
 path_pwd = pwd;
 % load('Data/data_FT_PEG_Tracking.mat');
-% load('../Data/data_FT_PEG_Tracking.mat');
+load('../Data/data_FT_PEG_Tracking.mat');
 
 % 全局绘图参数设置
 MarkerIndices = 1:100:length(t) - 2;
