@@ -1,4 +1,4 @@
-# FT-RL-PEG-sim1
+#  Unmanned Aerial-Ground Vehicle Finite-Time Docking Control via Pursuit-Evasion Games
  
 This repository contains the code for the paper ["Unmanned Aerial-Ground Vehicle Finite-Time Docking Control via Pursuit-Evasion Games"](https://link.springer.com/article/10.1007/s11071-025-11021-6) published in the *Nonlinear Dynamics* Journal (March 2025). The simulation demonstrates finite-time docking control for a nonlinear pursuit-evasion system between aerial and ground vehicles.
 
